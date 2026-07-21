@@ -103,7 +103,7 @@ function loadDay(dayKey, btnElement) {
         // Definimos qué mostrar en la caja del GIF (La imagen o el texto placeholder)
         const gifStyle = ex.gif ? 'padding: 0; border: none;' : '';
         const gifContent = ex.gif 
-            ? `<img src="${ex.gif}" alt="${ex.name}" style="width: 100%; height: 100%; object-fit: contain; border-radius: 10px;">` 
+            ? `<img src="${ex.gif}" alt="${ex.name}" style="border-radius: 10px;">` 
             : `GIF<br>${ex.name}`;
 
         const card = document.createElement('article');
@@ -137,7 +137,6 @@ function loadDay(dayKey, btnElement) {
     });
 }
 
-// Función que guarda tu peso en el celular en tiempo real
 function saveWeight(key, value) {
     localStorage.setItem(key, value);
 }

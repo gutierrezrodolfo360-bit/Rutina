@@ -60,7 +60,7 @@ const routineData = {
         warmup: "10-15 min en escaleras",
         exercises: [
             { name: "Peso muerto (Rumano)", reps: "4 x 8-10", rest: "2 - 3 min", gif: "https://fitcron.com/wp-content/uploads/2021/04/14591301-Dumbbell-Romanian-Deadlift_Hips_720.gif" },
-            { name: "Hip Thrust", reps: "3 x 10-12", rest: "2 min", gif: "https://fitcron.com/wp-content/uploads/2021/04/10601301-Barbell-Hip-Thrust_Hips_720.gif" },
+            { name: "Hip Thrust", reps: "3 x 10-12", rest: "2 min", gif: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHsfzDfAdNTvXEnkluPttFyejRPmHZo1Arc_lOV6D1mA&s=10" },
             { name: "Leg Curl boca abajo", reps: "3 x 10-12", rest: "60 - 90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/04/05861301-Lever-Lying-Leg-Curl_Thighs_720.gif" },
             { name: "Patada de burro", reps: "3 x 12", rest: "60 seg", gif: "https://api.smartworkout.app/asset/image/51899e95-660f-44d9-b2ac-754dae5efef1" },
             { name: "Caminata del granjero", reps: "3 rondas al fallo", rest: "60 - 90 seg", gif: "https://api.smartworkout.app/asset/image/faf1833a-516b-42c5-ae8d-8dfed3238502" },
@@ -103,7 +103,7 @@ function loadDay(dayKey, btnElement) {
         // Definimos qué mostrar en la caja del GIF (La imagen o el texto placeholder)
         const gifStyle = ex.gif ? 'padding: 0; border: none;' : '';
         const gifContent = ex.gif 
-            ? `<img src="${ex.gif}" alt="${ex.name}" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">` 
+            ? `<img src="${ex.gif}" alt="${ex.name}" style="width: 100%; height: 100%; object-fit: contain; border-radius: 10px;">` 
             : `GIF<br>${ex.name}`;
 
         const card = document.createElement('article');

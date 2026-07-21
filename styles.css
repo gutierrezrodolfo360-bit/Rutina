@@ -241,13 +241,13 @@ body {
     margin-right: 5px;
 }
 
-/* Ajustes para pantallas muy pequeñas */
-@media (max-width: 380px) {
+/* Ajustes para pantallas de celulares */
+@media (max-width: 480px) {
     .exercise-content {
         flex-direction: column;
     }
     .exercise-gif {
         width: 100%;
-        height: 120px;
+        height: 220px;
     }
 }

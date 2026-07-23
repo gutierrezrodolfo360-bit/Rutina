@@ -47,7 +47,7 @@ const routineData = {
         warmup: "10-15 min caminadora",
         exercises: [
             { name: "Pull over", reps: "3 x 10-12", rest: "90s - 2 min", gif: "https://i.pinimg.com/originals/28/41/d4/2841d494a3adb9366896e14cc0291254.gif" },
-            { name: "Fondos en paralelas", reps: "3 series al fallo", rest: "2 min", gif: "https://fitcron.com/wp-content/uploads/2021/03/02511301-Chest-Dip_Chest_720.gif" },
+            { name: "Fondos en paralelas", reps: "3 x 8-12", rest: "2 min", gif: "https://fitcron.com/wp-content/uploads/2021/03/02511301-Chest-Dip_Chest_720.gif" },
             { name: "Elevaciones en Y", reps: "3 x 12", rest: "60 - 90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/04/35411301-Dumbbell-Incline-Y-Raise_Shoulders_720.gif" },
             { name: "Curl Predicador", reps: "3 x 10-12", rest: "60 - 90 seg", gif: "https://i.pinimg.com/originals/15/23/4b/15234bf2aaa9e75ae50c2921dbc722b2.gif" },
             { name: "Curl de muñeca", reps: "3 x 15", rest: "60 seg", gif: "https://fitcron.com/wp-content/uploads/2021/03/03641301-Dumbbell-One-arm-Wrist-Curl_Forearm-SFIX_720.gif" },

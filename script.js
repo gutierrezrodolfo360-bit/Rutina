@@ -21,7 +21,7 @@ const routineData = {
             { name: "Jalón frontal (o dominadas)", reps: "4 x 8-10", rest: "2 - 3 min", gif: "https://vitruve.fit/wp-content/uploads/2021/11/vitruvs.gif" },
             { name: "Remo al pecho", reps: "4 x 10-12", rest: "2 min", gif: "https://fitcron.com/wp-content/uploads/2021/04/02931301-Dumbbell-Bent-Over-Row_Back-FIX_720.gif" },
             { name: "Encogimiento de hombros", reps: "1 serie al fallo", rest: "Sin descanso", gif: "https://fitcron.com/wp-content/uploads/2021/04/04061301-Dumbbell-Shrug_Back-FIX_720.gif" },
-            { name: "Curl de bíceps inclinado", reps: "3 x 10-12", rest: "60 - 90 seg", gif: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1RPJtVjnLaw2hNY9Kldikrqq-SPXhl6Gzg&s" },
+            { name: "Curl de bíceps inclinado", reps: "3 x 10-12", rest: "60 - 90 seg", gif: "https://api.smartworkout.app/asset/image/afe21e4f-22a7-4b2f-ba35-f2376c7d3643" },
             { name: "Curl martillo", reps: "3 x 10-12", rest: "60 - 90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/04/16571301-Dumbbell-Cross-Body-Hammer-Curl-Version-2_Upper-Arms_720.gif" },
             { name: "Caminata del granjero", reps: "3 rondas al fallo", rest: "60 - 90 seg", gif: "https://api.smartworkout.app/asset/image/faf1833a-516b-42c5-ae8d-8dfed3238502" }
         ]

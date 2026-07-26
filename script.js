@@ -66,7 +66,7 @@ const routineData = {
             { name: "Hip Thrust", reps: "4 x 10-12", rest: "2 min", gif: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHsfzDfAdNTvXEnkluPttFyejRPmHZo1Arc_lOV6D1mA&s=10" },
             { name: "Peso muerto rumano", reps: "4 x 8-10", rest: "2 - 3 min", gif: "https://fitcron.com/wp-content/uploads/2021/04/14591301-Dumbbell-Romanian-Deadlift_Hips_720.gif" },
             { name: "Curl de piernas", reps: "3 x 10-12", rest: "60 - 90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/04/05861301-Lever-Lying-Leg-Curl_Thighs_720.gif" },
-            { name: "Patadas en polea", reps: "3 x 12", rest: "60 seg", gif: "https://api.smartworkout.app/asset/image/51899e95-660f-44d9-b2ac-754dae5efef1" },
+            { name: "Patadas en polea", reps: "3 x 12", rest: "60 seg", gif: "https://i.pinimg.com/originals/46/16/7a/46167ac37691c55567d9424e1bb6a3dc.gif" },
             { name: "Elevación de pantorrillas con barra", reps: "4 x 12-15", rest: "60 - 90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/04/01081301-Barbell-Standing-Leg-Calf-Raise_Calf_720.gif" },
             { name: "Crunch en máquina", reps: "3 x 12", rest: "45 - 60 seg", gif: "https://fitcron.com/wp-content/uploads/2021/04/18571301-Lever-Total-Abdominal-Crunch_Waist_720.gif" },
             { name: "Elevaciones de piernas", reps: "3 x 15", rest: "45 - 60 seg", gif: "https://fitcron.com/wp-content/uploads/2024/05/11631301-Lying-Leg-Raise_Waist_720.gif" }

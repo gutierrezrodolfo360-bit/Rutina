@@ -93,7 +93,7 @@ const routineData = {
             },
             { 
               name: "Twist ruso", 
-              reps: "3 x 20 por lado", 
+              reps: "3 x 15-20 por lado", 
               rest: "45 - 60 seg", 
               gif: "https://fitcron.com/wp-content/uploads/2024/05/06871301-Russian-Twist_Waist-FIX_720.gif", 
               tutorial: "https://www.tiktok.com/@micah_foreverfit/video/7551876144333638924?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" 
@@ -177,7 +177,7 @@ const routineData = {
             },
             { 
               name: "Twist ruso", 
-              reps: "3 x 20 por lado", 
+              reps: "3 x 15-20 por lado", 
               rest: "45 - 60 seg", 
               gif: "https://fitcron.com/wp-content/uploads/2024/05/06871301-Russian-Twist_Waist-FIX_720.gif", 
               tutorial: "https://www.tiktok.com/@micah_foreverfit/video/7551876144333638924?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" 

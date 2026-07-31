@@ -137,8 +137,8 @@ const routineData = {
               name: "Sentadilla Hack", 
               reps: "3 x 7-9", 
               rest: "2 - 3 min", 
-              gif: "https://media.tenor.com/yBaS_oBgidsAAAAM/gym.gif", 
-              tutorial: "https://www.tiktok.com/@juanpcoach/video/7530318380293770501?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" 
+              gif: "https://fitcron.com/wp-content/uploads/2021/04/19921301-Sled-Full-Hack-Squat_Thighs_720.gif", 
+              tutorial: "https://www.tiktok.com/@juanwagner_/video/7652476062923820318?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" 
             },
             { 
               name: "Hip Thrust", 

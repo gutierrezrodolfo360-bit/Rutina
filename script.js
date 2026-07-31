@@ -134,7 +134,7 @@ const routineData = {
               tutorial: "https://www.tiktok.com/@juanwagner_/video/7363697050002672938?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" 
             },
             { 
-              name: "Leg Press Inclinado", 
+              name: "Sentadilla Hack", 
               reps: "3 x 7-9", 
               rest: "2 - 3 min", 
               gif: "https://media.tenor.com/yBaS_oBgidsAAAAM/gym.gif", 

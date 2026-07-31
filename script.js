@@ -8,10 +8,10 @@ const routineData = {
             { name: "Press de banca", reps: "3 x 8-10", rest: "2 - 3 min", gif: "https://fitcron.com/wp-content/uploads/2021/03/00251301-Barbell-Bench-Press_Chest-FIX_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7646504721758391583?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
             { name: "Press inclinado", reps: "3 x 10-12", rest: "2 min", gif: "https://fitcron.com/wp-content/uploads/2021/03/00471301-Barbell-Incline-Bench-Press_Chest_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7527868355898838303?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
             { name: "Fondos en paralelas", reps: "3 x 8-12", rest: "2 min", gif: "https://fitcron.com/wp-content/uploads/2021/03/02511301-Chest-Dip_Chest_720.gif", tutorial: "https://www.tiktok.com/@nicolasvasquezsa/video/7064793019576356101?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Extensión tríceps katana", reps: "3 x 10-12", rest: "60 - 90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/04/01941301-Cable-Overhead-Triceps-Extension-rope-attachment_Upper-Arms_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7343267882576530731?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
+            { name: "Extensión tríceps katana", reps: "3 x 10-12", rest: "90 seg - 2 min", gif: "https://fitcron.com/wp-content/uploads/2021/04/01941301-Cable-Overhead-Triceps-Extension-rope-attachment_Upper-Arms_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7343267882576530731?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
             { name: "Extensión tríceps bajo la cabeza en polea", reps: "3 x 10-12", rest: "60 - 90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/04/12271301-Cable-Standing-One-Arm-Tricep-Pushdown-Overhand-Grip_Upper-Arms_720.gif", tutorial: "https://www.tiktok.com/@daviddiezft/video/7663274000998550804?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Elevaciones laterales en polea", reps: "3 x 12-15", rest: "60 - 90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/04/38801301-Cable-Leaning-Lateral-Raise_Shoulders_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7496961628383104287?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Press militar", reps: "3 x 8-10", rest: "2 min", gif: "https://fitcron.com/wp-content/uploads/2021/04/42371301-Dumbbell-Seated-Close-Grip-Press_Shoulders_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7309506304643452203?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" }
+            { name: "Elevaciones laterales en polea", reps: "3 x 12-15", rest: "90 seg - 2 min seg", gif: "https://fitcron.com/wp-content/uploads/2021/04/38801301-Cable-Leaning-Lateral-Raise_Shoulders_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7496961628383104287?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
+            { name: "Press militar", reps: "3 x 8-10", rest: "2 - 3 min", gif: "https://fitcron.com/wp-content/uploads/2021/04/42371301-Dumbbell-Seated-Close-Grip-Press_Shoulders_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7309506304643452203?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" }
         ]
     },
     martes: {
@@ -21,13 +21,13 @@ const routineData = {
         exercises: [
             { name: "Jalón al pecho", reps: "3 x 8-10", rest: "2 - 3 min", gif: "https://vitruve.fit/wp-content/uploads/2021/11/vitruvs.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7364881238525496618?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
             { name: "Remo al pecho mancuernas", reps: "3 x 10-12", rest: "2 min", gif: "https://fitcron.com/wp-content/uploads/2021/04/02931301-Dumbbell-Bent-Over-Row_Back-FIX_720.gif", tutorial: "https://www.tiktok.com/@salarfit_gh/video/7363667948856184069?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Pull over", reps: "3 x 10-12", rest: "2 min", gif: "https://i.pinimg.com/originals/28/41/d4/2841d494a3adb9366896e14cc0291254.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7401589670317985054?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Elevaciones de hombros", reps: "4 x 15-20", rest: "90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/04/04061301-Dumbbell-Shrug_Back-FIX_720.gif", tutorial: "https://www.tiktok.com/@albertohicianoifbbpro/video/7213076897868041478?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Elevaciones en Y con mancuernas", reps: "3 x 12", rest: "60 - 90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/04/35411301-Dumbbell-Incline-Y-Raise_Shoulders_720.gif", tutorial: "https://www.tiktok.com/@lostandlifting/video/6987562070581497093?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Curl Bayesian (inclinado)", reps: "3 x 10-12", rest: "60 - 90 seg", gif: "https://api.smartworkout.app/asset/image/afe21e4f-22a7-4b2f-ba35-f2376c7d3643", tutorial: "https://www.tiktok.com/@juanwagner_/video/7390477617884908831?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Curl Predicador", reps: "3 x 10-12", rest: "60 - 90 seg", gif: "https://i.pinimg.com/originals/15/23/4b/15234bf2aaa9e75ae50c2921dbc722b2.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7456114250164014366?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Curl de muñeca", reps: "3 x 15-20", rest: "60 seg", gif: "https://fitcron.com/wp-content/uploads/2021/03/03641301-Dumbbell-One-arm-Wrist-Curl_Forearm-SFIX_720.gif", tutorial: "" },
-            { name: "Curl de muñeca inverso", reps: "3 x 15-20", rest: "60 seg", gif: "https://fitcron.com/wp-content/uploads/2021/03/03581301-Dumbbell-One-arm-Revers-Wrist-Curl_Forearms_720.gif", tutorial: "" }
+            { name: "Pull over", reps: "3 x 10-12", rest: "2 -3 min", gif: "https://i.pinimg.com/originals/28/41/d4/2841d494a3adb9366896e14cc0291254.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7401589670317985054?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
+            { name: "Elevaciones de hombros", reps: "4 x 15-20", rest: "90 seg - 2 min", gif: "https://fitcron.com/wp-content/uploads/2021/04/04061301-Dumbbell-Shrug_Back-FIX_720.gif", tutorial: "https://www.tiktok.com/@albertohicianoifbbpro/video/7213076897868041478?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
+            { name: "Elevaciones en Y con mancuernas", reps: "3 x 12", rest: "90 seg - 2 min", gif: "https://fitcron.com/wp-content/uploads/2021/04/35411301-Dumbbell-Incline-Y-Raise_Shoulders_720.gif", tutorial: "https://www.tiktok.com/@lostandlifting/video/6987562070581497093?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
+            { name: "Curl Bayesian (inclinado)", reps: "3 x 10-12", rest: "90 seg - 2 min", gif: "https://api.smartworkout.app/asset/image/afe21e4f-22a7-4b2f-ba35-f2376c7d3643", tutorial: "https://www.tiktok.com/@juanwagner_/video/7390477617884908831?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
+            { name: "Curl Predicador", reps: "3 x 10-12", rest: "90 seg - 2 min", gif: "https://i.pinimg.com/originals/15/23/4b/15234bf2aaa9e75ae50c2921dbc722b2.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7456114250164014366?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
+            { name: "Curl de muñeca", reps: "3 x 12 - 15", rest: "90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/03/03641301-Dumbbell-One-arm-Wrist-Curl_Forearm-SFIX_720.gif", tutorial: "" },
+            { name: "Curl de muñeca inverso", reps: "3 x 12 - 15", rest: "90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/03/03581301-Dumbbell-One-arm-Revers-Wrist-Curl_Forearms_720.gif", tutorial: "" }
         ]
     },
     miercoles: {
@@ -38,14 +38,14 @@ const routineData = {
             { 
               name: "Máquina de aductores", 
               reps: "4 x 10-14", 
-              rest: "60 seg", 
+              rest: "90 seg - 2 min", 
               gif: "https://fitcron.com/wp-content/uploads/2021/04/05981301-Lever-Seated-Hip-Adduction_Thighs_720.gif", 
               tutorial: "" 
             },
             { 
               name: "Curl femoral tumbado", 
               reps: "3 x 8-12", 
-              rest: "60 - 90 seg", 
+              rest: "90 seg - 2 min", 
               gif: "https://fitcron.com/wp-content/uploads/2021/04/05861301-Lever-Lying-Leg-Curl_Thighs_720.gif", 
               tutorial: "https://www.tiktok.com/@juanwagner_/video/7363697050002672938?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" 
             },
@@ -59,42 +59,35 @@ const routineData = {
             { 
               name: "Hip Thrust", 
               reps: "2 x 8-10", 
-              rest: "2 min", 
+              rest: "2 - 3 min", 
               gif: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHsfzDfAdNTvXEnkluPttFyejRPmHZo1Arc_lOV6D1mA&s=10", 
               tutorial: "https://www.tiktok.com/@juanwagner_/video/7282761293877087530?is_from_webapp=1&sender_device=pc" 
             },
             { 
               name: "Leg Extension", 
               reps: "2 x 12-18", 
-              rest: "60 - 90 seg", 
+              rest: "90 seg - 2 min", 
               gif: "https://fitnessprogramer.com/wp-content/uploads/2021/02/LEG-EXTENSION.gif", 
               tutorial: "https://www.tiktok.com/@juanwagner_/video/7361506972954414378?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" 
             },
             { 
               name: "Elevación de pantorrillas", 
-              reps: "3 x 12-15", 
-              rest: "60 - 90 seg", 
+              reps: "3 x 10-12", 
+              rest: "90 seg - 2min", 
               gif: "https://fitcron.com/wp-content/uploads/2021/04/01081301-Barbell-Standing-Leg-Calf-Raise_Calf_720.gif", 
               tutorial: "https://www.tiktok.com/@guia.de.ejercicios/video/7310894301142076704?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" 
             },
             { 
-              name: "Crunch en polea o máquina", 
-              reps: "3 x 15-20", 
-              rest: "45 - 60 seg", 
-              gif: "https://fitcron.com/wp-content/uploads/2021/04/18571301-Lever-Total-Abdominal-Crunch_Waist_720.gif", 
-              tutorial: "https://www.tiktok.com/@christian.ramirezc/video/7578871354036931860?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" 
-            },
-            { 
-              name: "Elevaciones de piernas", 
-              reps: "3 x 12-15", 
-              rest: "45 - 60 seg", 
-              gif: "https://fitcron.com/wp-content/uploads/2024/05/11631301-Lying-Leg-Raise_Waist_720.gif", 
-              tutorial: "https://www.tiktok.com/@eduandreu94/video/7631274981904682262?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" 
+              name: "Crunch en polea alta", 
+              reps: "3 x 10-15", 
+              rest: "90 seg - 2 min", 
+              gif: "https://fitcron.com/wp-content/uploads/2021/04/01751301-Cable-Kneeling-Crunch_Waist-FIX_720.gif", 
+              tutorial: "https://www.tiktok.com/@raul_ibrfit/video/7607253669997792543" 
             },
             { 
               name: "Twist ruso", 
-              reps: "3 x 15-20 por lado", 
-              rest: "45 - 60 seg", 
+              reps: "3 x 10-12 por lado", 
+              rest: "90 seg - 2 min", 
               gif: "https://fitcron.com/wp-content/uploads/2024/05/06871301-Russian-Twist_Waist-FIX_720.gif", 
               tutorial: "https://www.tiktok.com/@micah_foreverfit/video/7551876144333638924?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" 
             }
@@ -107,14 +100,14 @@ const routineData = {
         exercises: [
             { name: "Jalón al pecho", reps: "3 x 8-10", rest: "2 - 3 min", gif: "https://vitruve.fit/wp-content/uploads/2021/11/vitruvs.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7364881238525496618?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
             { name: "Remo horizontal", reps: "3 x 10-12", rest: "2 min", gif: "https://static.strengthlevel.com/images/exercises/seated-cable-row/seated-cable-row-800.jpg", tutorial: "https://www.tiktok.com/@eduandreu94/video/7627934644591136022?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Pec fly", reps: "3 x 12-15", rest: "60 - 90 seg", gif: "https://fitnessprogramer.com/wp-content/uploads/2021/02/Pec-Deck-Fly.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7293901691643039018?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
+            { name: "Pec fly", reps: "3 x 12-15", rest: "90 seg - 2 min", gif: "https://fitnessprogramer.com/wp-content/uploads/2021/02/Pec-Deck-Fly.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7293901691643039018?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
             { name: "Press de banca", reps: "3 x 8-10", rest: "2 - 3 min", gif: "https://fitcron.com/wp-content/uploads/2021/03/00251301-Barbell-Bench-Press_Chest-FIX_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7646504721758391583?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Elevaciones laterales en polea", reps: "3 x 12-15", rest: "60 - 90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/04/38801301-Cable-Leaning-Lateral-Raise_Shoulders_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7496961628383104287?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Curl Bayesian (inclinado)", reps: "3 x 10-12", rest: "60 - 90 seg", gif: "https://api.smartworkout.app/asset/image/afe21e4f-22a7-4b2f-ba35-f2376c7d3643", tutorial: "https://www.tiktok.com/@juanwagner_/video/7390477617884908831?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Press francés", reps: "3 x 10-12", rest: "90 seg", gif: "https://doriangym.es/wp-content/uploads/2022/10/press-frances-con-mancuernas.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7423129825197542687?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" }
+            { name: "Elevaciones laterales en polea", reps: "3 x 12-15", rest: "90 seg - 2 min", gif: "https://fitcron.com/wp-content/uploads/2021/04/38801301-Cable-Leaning-Lateral-Raise_Shoulders_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7496961628383104287?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
+            { name: "Curl Bayesian (inclinado)", reps: "3 x 10-12", rest: "90 seg - 2 min", gif: "https://api.smartworkout.app/asset/image/afe21e4f-22a7-4b2f-ba35-f2376c7d3643", tutorial: "https://www.tiktok.com/@juanwagner_/video/7390477617884908831?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
+            { name: "Press francés", reps: "3 x 10-12", rest: "90 seg - 2 min", gif: "https://doriangym.es/wp-content/uploads/2022/10/press-frances-con-mancuernas.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7423129825197542687?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" }
         ]
     },
-    viernes: {
+      viernes: {
         name: "VIERNES",
         focus: "Pierna completa y abdomen (Enfoque Táctico)",
         warmup: "10-15 min en escaleras (Nivel 4-6, suave)",
@@ -122,14 +115,14 @@ const routineData = {
             { 
               name: "Máquina de aductores", 
               reps: "4 x 10-14", 
-              rest: "60 seg", 
+              rest: "90 seg - 2 min", 
               gif: "https://fitcron.com/wp-content/uploads/2021/04/05981301-Lever-Seated-Hip-Adduction_Thighs_720.gif", 
               tutorial: "" 
             },
             { 
               name: "Curl femoral tumbado", 
               reps: "3 x 8-12", 
-              rest: "60 - 90 seg", 
+              rest: "90 seg - 2 min", 
               gif: "https://fitcron.com/wp-content/uploads/2021/04/05861301-Lever-Lying-Leg-Curl_Thighs_720.gif", 
               tutorial: "https://www.tiktok.com/@juanwagner_/video/7363697050002672938?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" 
             },
@@ -143,42 +136,35 @@ const routineData = {
             { 
               name: "Hip Thrust", 
               reps: "2 x 8-10", 
-              rest: "2 min", 
+              rest: "2 - 3 min", 
               gif: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHsfzDfAdNTvXEnkluPttFyejRPmHZo1Arc_lOV6D1mA&s=10", 
               tutorial: "https://www.tiktok.com/@juanwagner_/video/7282761293877087530?is_from_webapp=1&sender_device=pc" 
             },
             { 
               name: "Leg Extension", 
               reps: "2 x 12-18", 
-              rest: "60 - 90 seg", 
+              rest: "90 seg - 2 min", 
               gif: "https://fitnessprogramer.com/wp-content/uploads/2021/02/LEG-EXTENSION.gif", 
               tutorial: "https://www.tiktok.com/@juanwagner_/video/7361506972954414378?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" 
             },
             { 
               name: "Elevación de pantorrillas", 
-              reps: "3 x 12-15", 
-              rest: "60 - 90 seg", 
+              reps: "3 x 10-12", 
+              rest: "90 seg - 2min", 
               gif: "https://fitcron.com/wp-content/uploads/2021/04/01081301-Barbell-Standing-Leg-Calf-Raise_Calf_720.gif", 
               tutorial: "https://www.tiktok.com/@guia.de.ejercicios/video/7310894301142076704?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" 
             },
             { 
-              name: "Crunch en polea o máquina", 
-              reps: "3 x 15-20", 
-              rest: "45 - 60 seg", 
-              gif: "https://fitcron.com/wp-content/uploads/2021/04/18571301-Lever-Total-Abdominal-Crunch_Waist_720.gif", 
-              tutorial: "https://www.tiktok.com/@christian.ramirezc/video/7578871354036931860?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" 
-            },
-            { 
-              name: "Elevaciones de piernas", 
-              reps: "3 x 12-15", 
-              rest: "45 - 60 seg", 
-              gif: "https://fitcron.com/wp-content/uploads/2024/05/11631301-Lying-Leg-Raise_Waist_720.gif", 
-              tutorial: "https://www.tiktok.com/@eduandreu94/video/7631274981904682262?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" 
+              name: "Crunch en polea alta", 
+              reps: "3 x 10-15", 
+              rest: "90 seg - 2 min", 
+              gif: "https://fitcron.com/wp-content/uploads/2021/04/01751301-Cable-Kneeling-Crunch_Waist-FIX_720.gif", 
+              tutorial: "https://www.tiktok.com/@raul_ibrfit/video/7607253669997792543" 
             },
             { 
               name: "Twist ruso", 
-              reps: "3 x 15-20 por lado", 
-              rest: "45 - 60 seg", 
+              reps: "3 x 10-12 por lado", 
+              rest: "90 seg - 2 min", 
               gif: "https://fitcron.com/wp-content/uploads/2024/05/06871301-Russian-Twist_Waist-FIX_720.gif", 
               tutorial: "https://www.tiktok.com/@micah_foreverfit/video/7551876144333638924?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" 
             }

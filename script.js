@@ -104,7 +104,9 @@ const routineData = {
             { name: "Press de banca", reps: "3 x 8-10", rest: "2 - 3 min", gif: "https://fitcron.com/wp-content/uploads/2021/03/00251301-Barbell-Bench-Press_Chest-FIX_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7646504721758391583?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
             { name: "Elevaciones laterales en polea", reps: "3 x 12-15", rest: "90 seg - 2 min", gif: "https://fitcron.com/wp-content/uploads/2021/04/38801301-Cable-Leaning-Lateral-Raise_Shoulders_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7496961628383104287?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
             { name: "Curl Bayesian (inclinado)", reps: "3 x 10-12", rest: "90 seg - 2 min", gif: "https://api.smartworkout.app/asset/image/afe21e4f-22a7-4b2f-ba35-f2376c7d3643", tutorial: "https://www.tiktok.com/@juanwagner_/video/7390477617884908831?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Press francés", reps: "3 x 10-12", rest: "90 seg - 2 min", gif: "https://doriangym.es/wp-content/uploads/2022/10/press-frances-con-mancuernas.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7423129825197542687?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" }
+            { name: "Press francés", reps: "3 x 10-12", rest: "90 seg - 2 min", gif: "https://doriangym.es/wp-content/uploads/2022/10/press-frances-con-mancuernas.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7423129825197542687?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
+            { name: "Curl de muñeca", reps: "3 x 12 - 15", rest: "90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/03/03641301-Dumbbell-One-arm-Wrist-Curl_Forearm-SFIX_720.gif", tutorial: "" },
+            { name: "Curl de muñeca inverso", reps: "3 x 12 - 15", rest: "90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/03/03581301-Dumbbell-One-arm-Revers-Wrist-Curl_Forearms_720.gif", tutorial: "" }
         ]
     },
       viernes: {

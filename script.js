@@ -72,7 +72,7 @@ const routineData = {
             },
             { 
               name: "Elevación de pantorrillas", 
-              reps: "3 x 10-12", 
+              reps: "4 x 10-12", 
               rest: "90 seg - 2min", 
               gif: "https://fitcron.com/wp-content/uploads/2021/04/01081301-Barbell-Standing-Leg-Calf-Raise_Calf_720.gif", 
               tutorial: "https://www.tiktok.com/@guia.de.ejercicios/video/7310894301142076704?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" 
@@ -151,7 +151,7 @@ const routineData = {
             },
             { 
               name: "Elevación de pantorrillas", 
-              reps: "3 x 10-12", 
+              reps: "4 x 10-12", 
               rest: "90 seg - 2min", 
               gif: "https://fitcron.com/wp-content/uploads/2021/04/01081301-Barbell-Standing-Leg-Calf-Raise_Calf_720.gif", 
               tutorial: "https://www.tiktok.com/@guia.de.ejercicios/video/7310894301142076704?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" 

@@ -36,7 +36,7 @@ const routineData = {
         exercises: [
             { 
               name: "Máquina de aductores", 
-              reps: "4 x 10-14", 
+              reps: "3 x 10-14", 
               rest: "90 seg - 2 min", 
               gif: "https://fitcron.com/wp-content/uploads/2021/04/05981301-Lever-Seated-Hip-Adduction_Thighs_720.gif", 
               tutorial: "" 
@@ -115,7 +115,7 @@ const routineData = {
         exercises: [
             { 
               name: "Máquina de aductores", 
-              reps: "4 x 10-14", 
+              reps: "3 x 10-14", 
               rest: "90 seg - 2 min", 
               gif: "https://fitcron.com/wp-content/uploads/2021/04/05981301-Lever-Seated-Hip-Adduction_Thighs_720.gif", 
               tutorial: "" 

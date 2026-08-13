@@ -2,16 +2,18 @@
 const routineData = {
     lunes: {
         name: "LUNES",
-        focus: "Pecho, tríceps y hombros",
+        focus: "Pecho, hombro y triceps",
         warmup: "10-15 min caminadora",
         exercises: [
             { name: "Press de banca", reps: "3 x 8-10", rest: "2 - 3 min", gif: "https://fitcron.com/wp-content/uploads/2021/03/00251301-Barbell-Bench-Press_Chest-FIX_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7646504721758391583?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
             { name: "Press inclinado", reps: "3 x 10-12", rest: "2 min", gif: "https://fitcron.com/wp-content/uploads/2021/03/00471301-Barbell-Incline-Bench-Press_Chest_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7527868355898838303?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Fondos en paralelas", reps: "3 x 8-12", rest: "2 min", gif: "https://fitcron.com/wp-content/uploads/2021/03/02511301-Chest-Dip_Chest_720.gif", tutorial: "https://www.tiktok.com/@nicolasvasquezsa/video/7064793019576356101?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Extensión tríceps katana", reps: "3 x 10-12", rest: "90 seg - 2 min", gif: "https://fitcron.com/wp-content/uploads/2021/04/01941301-Cable-Overhead-Triceps-Extension-rope-attachment_Upper-Arms_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7343267882576530731?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Extensión tríceps bajo la cabeza en polea", reps: "3 x 10-12", rest: "60 - 90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/04/12271301-Cable-Standing-One-Arm-Tricep-Pushdown-Overhand-Grip_Upper-Arms_720.gif", tutorial: "https://www.tiktok.com/@daviddiezft/video/7663274000998550804?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
+            { name: "Pec fly", reps: "3 x 12-15", rest: "90 seg - 2 min", gif: "https://fitnessprogramer.com/wp-content/uploads/2021/02/Pec-Deck-Fly.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7293901691643039018?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
+
+            { name: "Press militar", reps: "3 x 8-10", rest: "2 - 3 min", gif: "https://fitcron.com/wp-content/uploads/2021/04/42371301-Dumbbell-Seated-Close-Grip-Press_Shoulders_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7309506304643452203?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
+
             { name: "Elevaciones laterales en polea", reps: "3 x 12-15", rest: "90 seg - 2 min seg", gif: "https://fitcron.com/wp-content/uploads/2021/04/38801301-Cable-Leaning-Lateral-Raise_Shoulders_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7496961628383104287?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Press militar", reps: "3 x 8-10", rest: "2 - 3 min", gif: "https://fitcron.com/wp-content/uploads/2021/04/42371301-Dumbbell-Seated-Close-Grip-Press_Shoulders_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7309506304643452203?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" }
+            { name: "Extensión tríceps katana", reps: "3 x 10-12", rest: "90 seg - 2 min", gif: "https://fitcron.com/wp-content/uploads/2021/04/01941301-Cable-Overhead-Triceps-Extension-rope-attachment_Upper-Arms_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7343267882576530731?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
+            { name: "Extensión tríceps bajo la cabeza en polea", reps: "3 x 10-12", rest: "60 - 90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/04/12271301-Cable-Standing-One-Arm-Tricep-Pushdown-Overhand-Grip_Upper-Arms_720.gif", tutorial: "https://www.tiktok.com/@daviddiezft/video/7663274000998550804?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" }
         ]
     },
     martes: {
@@ -19,8 +21,10 @@ const routineData = {
         focus: "Espalda, bíceps, trapecio y antebrazos",
         warmup: "10-15 min caminadora",
         exercises: [
-            { name: "Jalón al pecho", reps: "3 x 8-10", rest: "2 - 3 min", gif: "https://vitruve.fit/wp-content/uploads/2021/11/vitruvs.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7364881238525496618?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Remo en T con mancuernas", reps: "3 x 10-12", rest: "2 min", gif: "https://fitcron.com/wp-content/uploads/2021/04/02931301-Dumbbell-Bent-Over-Row_Back-FIX_720.gif", tutorial: "https://vt.tiktok.com/ZS4wWYGjW/" },
+            { name: "Jalón al pecho", reps: "3 x 8-10", rest: "2 - 3 min", gif: "https://vitruve.fit/wp-content/uploads/2021/11/vitruvs.gif", tutorial: "https://vt.tiktok.com/ZS4EBEEHF/" },
+
+            { name: "Remo abierto", reps: "3 x 10-12", rest: "2 min", gif: "https://static.strengthlevel.com/images/exercises/seated-cable-row/seated-cable-row-800.jpg", tutorial: "https://www.tiktok.com/@juanwagner_/video/7585624747325607199?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
+            
             { name: "Pull over", reps: "3 x 10-12", rest: "2 -3 min", gif: "https://i.pinimg.com/originals/28/41/d4/2841d494a3adb9366896e14cc0291254.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7401589670317985054?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
             { name: "Elevaciones de hombros", reps: "4 x 15-20", rest: "90 seg - 2 min", gif: "https://fitcron.com/wp-content/uploads/2021/04/04061301-Dumbbell-Shrug_Back-FIX_720.gif", tutorial: "https://www.tiktok.com/@albertohicianoifbbpro/video/7213076897868041478?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
             { name: "Curl Bayesian (inclinado)", reps: "3 x 10-12", rest: "90 seg - 2 min", gif: "https://api.smartworkout.app/asset/image/afe21e4f-22a7-4b2f-ba35-f2376c7d3643", tutorial: "https://www.tiktok.com/@juanwagner_/video/7390477617884908831?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
@@ -97,10 +101,11 @@ const routineData = {
         focus: "Upper",
         warmup: "10-15 min caminadora",
         exercises: [
-            { name: "Jalón al pecho", reps: "3 x 8-10", rest: "2 - 3 min", gif: "https://vitruve.fit/wp-content/uploads/2021/11/vitruvs.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7364881238525496618?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Remo horizontal", reps: "3 x 10-12", rest: "2 min", gif: "https://static.strengthlevel.com/images/exercises/seated-cable-row/seated-cable-row-800.jpg", tutorial: "https://www.tiktok.com/@eduandreu94/video/7627934644591136022?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
             { name: "Pec fly", reps: "3 x 12-15", rest: "90 seg - 2 min", gif: "https://fitnessprogramer.com/wp-content/uploads/2021/02/Pec-Deck-Fly.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7293901691643039018?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
             { name: "Press de banca", reps: "3 x 8-10", rest: "2 - 3 min", gif: "https://fitcron.com/wp-content/uploads/2021/03/00251301-Barbell-Bench-Press_Chest-FIX_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7646504721758391583?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
+            { name: "Jalón al pecho", reps: "3 x 8-10", rest: "2 - 3 min", gif: "https://vitruve.fit/wp-content/uploads/2021/11/vitruvs.gif", tutorial: "https://vt.tiktok.com/ZS4EBEEHF/" },
+            { name: "Remo abierto", reps: "3 x 10-12", rest: "2 min", gif: "https://static.strengthlevel.com/images/exercises/seated-cable-row/seated-cable-row-800.jpg", tutorial: "https://www.tiktok.com/@juanwagner_/video/7585624747325607199?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
+            
             { name: "Elevaciones laterales en polea", reps: "3 x 12-15", rest: "90 seg - 2 min", gif: "https://fitcron.com/wp-content/uploads/2021/04/38801301-Cable-Leaning-Lateral-Raise_Shoulders_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7496961628383104287?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
             { name: "Curl Bayesian (inclinado)", reps: "3 x 10-12", rest: "90 seg - 2 min", gif: "https://api.smartworkout.app/asset/image/afe21e4f-22a7-4b2f-ba35-f2376c7d3643", tutorial: "https://www.tiktok.com/@juanwagner_/video/7390477617884908831?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
             { name: "Press francés", reps: "3 x 10-12", rest: "90 seg - 2 min", gif: "https://doriangym.es/wp-content/uploads/2022/10/press-frances-con-mancuernas.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7423129825197542687?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
@@ -172,6 +177,7 @@ const routineData = {
         ]
     }
 };
+
 // Scroll suave al presionar empezar
 function scrollToDays() {
     document.getElementById('selector').scrollIntoView({ behavior: 'smooth' });

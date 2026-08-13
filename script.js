@@ -29,8 +29,8 @@ const routineData = {
             { name: "Elevaciones de hombros", reps: "4 x 15-20", rest: "90 seg - 2 min", gif: "https://fitcron.com/wp-content/uploads/2021/04/04061301-Dumbbell-Shrug_Back-FIX_720.gif", tutorial: "https://www.tiktok.com/@albertohicianoifbbpro/video/7213076897868041478?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
             { name: "Curl Martillo", reps: "3 x 10-12", rest: "90 seg - 2 min", gif: "https://fitcron.com/wp-content/uploads/2021/04/02981301-Dumbbell-Cross-Body-Hammer-Curl_Forearms_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7420893375529864479" },
             { name: "Curl Predicador", reps: "3 x 10-12", rest: "90 seg - 2 min", gif: "https://i.pinimg.com/originals/15/23/4b/15234bf2aaa9e75ae50c2921dbc722b2.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7456114250164014366?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Curl de muñeca", reps: "3 x 12 - 15", rest: "90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/03/03641301-Dumbbell-One-arm-Wrist-Curl_Forearm-SFIX_720.gif", tutorial: "" },
-            { name: "Curl de muñeca inverso", reps: "3 x 12 - 15", rest: "90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/03/03581301-Dumbbell-One-arm-Revers-Wrist-Curl_Forearms_720.gif", tutorial: "" }
+            { name: "Curl de muñeca", reps: "2 x 12 - 15", rest: "90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/03/03641301-Dumbbell-One-arm-Wrist-Curl_Forearm-SFIX_720.gif", tutorial: "" },
+            { name: "Curl de muñeca inverso", reps: "2 x 12 - 15", rest: "90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/03/03581301-Dumbbell-One-arm-Revers-Wrist-Curl_Forearms_720.gif", tutorial: "" }
         ]
     },
     miercoles: {
@@ -109,8 +109,8 @@ const routineData = {
             { name: "Elevaciones laterales en polea", reps: "3 x 12-15", rest: "90 seg - 2 min", gif: "https://fitcron.com/wp-content/uploads/2021/04/38801301-Cable-Leaning-Lateral-Raise_Shoulders_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7496961628383104287?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
             { name: "Curl Bayesian (inclinado)", reps: "3 x 10-12", rest: "90 seg - 2 min", gif: "https://api.smartworkout.app/asset/image/afe21e4f-22a7-4b2f-ba35-f2376c7d3643", tutorial: "https://www.tiktok.com/@juanwagner_/video/7390477617884908831?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
             { name: "Press francés", reps: "3 x 10-12", rest: "90 seg - 2 min", gif: "https://doriangym.es/wp-content/uploads/2022/10/press-frances-con-mancuernas.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7423129825197542687?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Curl de muñeca", reps: "3 x 12 - 15", rest: "90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/03/03641301-Dumbbell-One-arm-Wrist-Curl_Forearm-SFIX_720.gif", tutorial: "" },
-            { name: "Curl de muñeca inverso", reps: "3 x 12 - 15", rest: "90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/03/03581301-Dumbbell-One-arm-Revers-Wrist-Curl_Forearms_720.gif", tutorial: "" }
+            { name: "Curl de muñeca", reps: "2 x 12 - 15", rest: "90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/03/03641301-Dumbbell-One-arm-Wrist-Curl_Forearm-SFIX_720.gif", tutorial: "" },
+            { name: "Curl de muñeca inverso", reps: "2 x 12 - 15", rest: "90 seg", gif: "https://fitcron.com/wp-content/uploads/2021/03/03581301-Dumbbell-One-arm-Revers-Wrist-Curl_Forearms_720.gif", tutorial: "" }
         ]
     },
       viernes: {

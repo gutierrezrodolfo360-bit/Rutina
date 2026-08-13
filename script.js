@@ -6,7 +6,7 @@ const routineData = {
         warmup: "10-15 min caminadora",
         exercises: [
             { name: "Press de banca", reps: "3 x 8-10", rest: "2 - 3 min", gif: "https://fitcron.com/wp-content/uploads/2021/03/00251301-Barbell-Bench-Press_Chest-FIX_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7646504721758391583?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Press inclinado", reps: "3 x 10-12", rest: "2 min", gif: "https://fitcron.com/wp-content/uploads/2021/03/00471301-Barbell-Incline-Bench-Press_Chest_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7527868355898838303?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
+            { name: "Press inclinado con mancuernas", reps: "3 x 10-12", rest: "2 min", gif: "https://fitcron.com/wp-content/uploads/2021/03/00471301-Barbell-Incline-Bench-Press_Chest_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7527868355898838303?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
             { name: "Pec fly", reps: "3 x 12-15", rest: "90 seg - 2 min", gif: "https://fitnessprogramer.com/wp-content/uploads/2021/02/Pec-Deck-Fly.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7293901691643039018?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
 
             { name: "Press militar", reps: "3 x 8-10", rest: "2 - 3 min", gif: "https://fitcron.com/wp-content/uploads/2021/04/42371301-Dumbbell-Seated-Close-Grip-Press_Shoulders_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7309506304643452203?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
@@ -102,7 +102,7 @@ const routineData = {
         warmup: "10-15 min caminadora",
         exercises: [
             { name: "Pec fly", reps: "3 x 12-15", rest: "90 seg - 2 min", gif: "https://fitnessprogramer.com/wp-content/uploads/2021/02/Pec-Deck-Fly.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7293901691643039018?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
-            { name: "Press inclinado", reps: "3 x 10-12", rest: "2 min", gif: "https://fitcron.com/wp-content/uploads/2021/03/00471301-Barbell-Incline-Bench-Press_Chest_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7527868355898838303?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909},
+            { name: "Press inclinado con mancuernas", reps: "3 x 10-12", rest: "2 min", gif: "https://fitcron.com/wp-content/uploads/2021/03/00471301-Barbell-Incline-Bench-Press_Chest_720.gif", tutorial: "https://www.tiktok.com/@juanwagner_/video/7527868355898838303?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909},
             { name: "Jalón al pecho", reps: "3 x 8-10", rest: "2 - 3 min", gif: "https://vitruve.fit/wp-content/uploads/2021/11/vitruvs.gif", tutorial: "https://vt.tiktok.com/ZS4EBEEHF/" },
             { name: "Remo abierto", reps: "3 x 10-12", rest: "2 min", gif: "https://static.strengthlevel.com/images/exercises/seated-cable-row/seated-cable-row-800.jpg", tutorial: "https://www.tiktok.com/@juanwagner_/video/7585624747325607199?is_from_webapp=1&sender_device=pc&web_id=7425803973335483909" },
             

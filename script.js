@@ -156,11 +156,11 @@ const routineData = {
             },
 
             { 
-                name: "Curl femoral tumbado", 
+                name: "Curl femoral sentado", 
                 reps: "3 x 8-12", 
                 rest: "90 seg - 2 min", 
-                gif: "https://fitcron.com/wp-content/uploads/2021/04/05861301-Lever-Lying-Leg-Curl_Thighs_720.gif", 
-                tutorial: "https://www.tiktok.com/@juanwagner_/video/7363697050002672938" 
+                gif: "https://gymvisual.com/img/p/1/0/4/8/2/10482.gif", 
+                tutorial: "https://www.tiktok.com/@raul_ibrfit/video/7601353061499473183" 
             },
             
             { 
@@ -312,11 +312,11 @@ const routineData = {
             },
 
             { 
-                name: "Curl femoral tumbado", 
+                name: "Curl femoral sentado", 
                 reps: "3 x 8-12", 
                 rest: "90 seg - 2 min", 
-                gif: "https://fitcron.com/wp-content/uploads/2021/04/05861301-Lever-Lying-Leg-Curl_Thighs_720.gif", 
-                tutorial: "https://www.tiktok.com/@juanwagner_/video/7363697050002672938" 
+                gif: "https://gymvisual.com/img/p/1/0/4/8/2/10482.gif", 
+                tutorial: "https://www.tiktok.com/@raul_ibrfit/video/7601353061499473183" 
             },
             
             { 

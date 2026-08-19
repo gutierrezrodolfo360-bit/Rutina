@@ -103,7 +103,7 @@ const routineData = {
 
             { 
                 name: "Elevaciones de hombros", 
-                reps: "2 x 15-20", 
+                reps: "2 x 12-15", 
                 rest: "90 seg - 2 min", 
                 gif: "https://fitcron.com/wp-content/uploads/2021/04/04061301-Dumbbell-Shrug_Back-FIX_720.gif", 
                 tutorial: "https://www.tiktok.com/@albertohicianoifbbpro/video/7213076897868041478" 
@@ -119,7 +119,7 @@ const routineData = {
 
             { 
                 name: "Curl Martillo", 
-                reps: "2 x 10-12", 
+                reps: "3 x 10-12", 
                 rest: "90 seg - 2 min", 
                 gif: "https://fitcron.com/wp-content/uploads/2021/04/02981301-Dumbbell-Cross-Body-Hammer-Curl_Forearms_720.gif", 
                 tutorial: "https://www.tiktok.com/@juanwagner_/video/7420893375529864479"
@@ -217,22 +217,6 @@ const routineData = {
         focus: "Upper",
         warmup: "Estiramiento - lunes + miercoles",
         exercises: [
-            { 
-                name: "Pec fly", 
-                reps: "3 x 12-15", 
-                rest: "90 seg - 2 min", 
-                gif: "https://fitnessprogramer.com/wp-content/uploads/2021/02/Pec-Deck-Fly.gif", 
-                tutorial: "https://www.tiktok.com/@juanwagner_/video/7293901691643039018" 
-            },
-
-            { 
-                name: "Press inclinado con mancuernas", 
-                reps: "3 x 10-12", 
-                rest: "2 min", 
-                gif: "https://fitcron.com/wp-content/uploads/2021/03/00471301-Barbell-Incline-Bench-Press_Chest_720.gif", 
-                tutorial: "https://www.tiktok.com/@juanwagner_/video/7527868355898838303"
-            },
-
             {
                 name: "Jalón al pecho", 
                 reps: "3 x 8-10", 
@@ -248,7 +232,32 @@ const routineData = {
                 gif: "https://fitcron.com/wp-content/uploads/2021/04/02181301-Cable-Seated-Wide-grip-Row_Back_720.gif", 
                 tutorial: "https://www.tiktok.com/@adrian_broscience_/video/7608344162966129940" 
             },
-            
+
+            { 
+                name: "Press inclinado con mancuernas", 
+                reps: "3 x 10-12", 
+                rest: "2 min", 
+                gif: "https://fitcron.com/wp-content/uploads/2021/03/00471301-Barbell-Incline-Bench-Press_Chest_720.gif", 
+                tutorial: "https://www.tiktok.com/@juanwagner_/video/7527868355898838303"
+            },
+
+            { 
+                name: "Pec fly", 
+                reps: "3 x 12-15", 
+                rest: "90 seg - 2 min", 
+                gif: "https://fitnessprogramer.com/wp-content/uploads/2021/02/Pec-Deck-Fly.gif", 
+                tutorial: "https://www.tiktok.com/@juanwagner_/video/7293901691643039018" 
+            },
+
+            {
+                name: "Aperturas traseras",
+                reps: "3 x 8-10",
+                rest: "90 s - 2 min",
+                gif: "https://fitcron.com/wp-content/uploads/2021/04/06021301-Lever-Seated-Reverse-Fly_Shoulders_720.gif",
+                tutorial: "https://www.tiktok.com/@daviddiezft/video/7567820466753228050"
+
+            },
+
             { 
                 name: "Elevaciones laterales en polea", 
                 reps: "3 x 12-15", 
@@ -286,14 +295,6 @@ const routineData = {
                 reps: "2 x 12 - 15", 
                 rest: "90 seg", 
                 gif: "https://fitcron.com/wp-content/uploads/2021/03/03641301-Dumbbell-One-arm-Wrist-Curl_Forearm-SFIX_720.gif", 
-                tutorial: "" 
-            },
-
-            { 
-                name: "Curl de muñeca inverso", 
-                reps: "2 x 12 - 15", 
-                rest: "90 seg", 
-                gif: "https://fitcron.com/wp-content/uploads/2021/03/03581301-Dumbbell-One-arm-Revers-Wrist-Curl_Forearms_720.gif", 
                 tutorial: "" 
             }
         ]

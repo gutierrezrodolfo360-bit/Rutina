@@ -29,14 +29,6 @@ const routineData = {
                 tutorial: "https://www.tiktok.com/@juanwagner_/video/7293901691643039018" 
             },
 
-            { 
-                name: "Press militar", 
-                reps: "3 x 8-10", 
-                rest: "2 - 3 min", 
-                gif: "https://fitcron.com/wp-content/uploads/2021/04/42371301-Dumbbell-Seated-Close-Grip-Press_Shoulders_720.gif", 
-                tutorial: "https://www.tiktok.com/@juanwagner_/video/7309506304643452203" 
-            },
-
             {
                 name: "Aperturas traseras",
                 reps: "3 x 8-10",
@@ -45,6 +37,15 @@ const routineData = {
                 tutorial: "https://www.tiktok.com/@daviddiezft/video/7567820466753228050"
 
             },
+            
+            { 
+                name: "Press militar", 
+                reps: "3 x 8-10", 
+                rest: "2 - 3 min", 
+                gif: "https://fitcron.com/wp-content/uploads/2021/04/42371301-Dumbbell-Seated-Close-Grip-Press_Shoulders_720.gif", 
+                tutorial: "https://www.tiktok.com/@juanwagner_/video/7309506304643452203" 
+            },
+
 
             { 
                 name: "Elevaciones laterales en polea", 

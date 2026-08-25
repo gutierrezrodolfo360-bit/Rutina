@@ -265,15 +265,15 @@ const routineData = {
                 gif: "https://fitcron.com/wp-content/uploads/2021/04/38801301-Cable-Leaning-Lateral-Raise_Shoulders_720.gif", 
                 tutorial: "https://www.tiktok.com/@juanwagner_/video/7496961628383104287" 
             },
-
-            { 
-                name: "Curl Bayesian (inclinado)", 
+            
+            {
+                name: "Curl Predicador", 
                 reps: "3 x 10-12", 
                 rest: "90 seg - 2 min", 
-                gif: "https://api.smartworkout.app/asset/image/afe21e4f-22a7-4b2f-ba35-f2376c7d3643", 
-                tutorial: "https://www.tiktok.com/@juanwagner_/video/7390477617884908831" 
+                gif: "https://i.pinimg.com/originals/15/23/4b/15234bf2aaa9e75ae50c2921dbc722b2.gif", 
+                tutorial: "https://www.tiktok.com/@juanwagner_/video/7456114250164014366" 
             },
-
+            
             { 
                 name: "Press francés", 
                 reps: "3 x 10-12", 

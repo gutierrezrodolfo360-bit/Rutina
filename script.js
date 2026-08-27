@@ -156,6 +156,14 @@ const routineData = {
             },
 
             { 
+                name: "Leg Extension", 
+                reps: "3 x 8-12", 
+                rest: "90 seg - 2 min", 
+                gif: "https://fitnessprogramer.com/wp-content/uploads/2021/02/LEG-EXTENSION.gif", 
+                tutorial: "https://www.tiktok.com/@juanwagner_/video/7361506972954414378" 
+            },
+
+            { 
                 name: "Curl femoral sentado", 
                 reps: "3 x 8-12", 
                 rest: "90 seg - 2 min", 
@@ -165,31 +173,32 @@ const routineData = {
             
             { 
                 name: "Sentadilla Hack", 
-                reps: "3 x 7-9", 
-                rest: "2 - 3 min", 
+                reps: "2 x 6-10", 
+                rest: "3 min", 
                 gif: "https://fitcron.com/wp-content/uploads/2021/04/19921301-Sled-Full-Hack-Squat_Thighs_720.gif", 
                 tutorial: "https://www.tiktok.com/@juanwagner_/video/7652476062923820318" 
             },
             
-            { 
-                name: "Hip Thrust", 
-                reps: "2 x 8-10", 
-                rest: "2 - 3 min", 
-                gif: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHsfzDfAdNTvXEnkluPttFyejRPmHZo1Arc_lOV6D1mA&s=10", 
-                tutorial: "https://www.tiktok.com/@juanwagner_/video/7282761293877087530" 
+            {
+                name: "Peso Muerto Rumano",
+                reps: "2 x 6-10",
+                rest: "2,5 - 3 min",
+                gif: "https://fitcron.com/wp-content/uploads/2021/04/14591301-Dumbbell-Romanian-Deadlift_Hips_720.gif",
+                tutorial: "https://www.tiktok.com/@aleperezfitness/video/7587008709323197718"
+
             },
 
             { 
-                name: "Leg Extension", 
-                reps: "2 x 12-18", 
-                rest: "90 seg - 2 min", 
-                gif: "https://fitnessprogramer.com/wp-content/uploads/2021/02/LEG-EXTENSION.gif", 
-                tutorial: "https://www.tiktok.com/@juanwagner_/video/7361506972954414378" 
+                name: "Hip Thrust", 
+                reps: "3 x 8-10", 
+                rest: "2 - 2,5 min", 
+                gif: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHsfzDfAdNTvXEnkluPttFyejRPmHZo1Arc_lOV6D1mA&s=10", 
+                tutorial: "https://www.tiktok.com/@juanwagner_/video/7282761293877087530" 
             },
             
             { 
                 name: "Elevación de pantorrillas", 
-                reps: "4 x 10-12", 
+                reps: "3 x 10-12", 
                 rest: "90 seg - 2min", 
                 gif: "https://fitcron.com/wp-content/uploads/2021/04/01081301-Barbell-Standing-Leg-Calf-Raise_Calf_720.gif", 
                 tutorial: "https://www.tiktok.com/@guia.de.ejercicios/video/7310894301142076704" 
@@ -205,7 +214,7 @@ const routineData = {
             
             { 
                 name: "Twist ruso", 
-                reps: "3 x 10-12 por lado", 
+                reps: "2 x 10-12 por lado", 
                 rest: "90 seg - 2 min", 
                 gif: "https://fitcron.com/wp-content/uploads/2024/05/06871301-Russian-Twist_Waist-FIX_720.gif", 
                 tutorial: "https://www.tiktok.com/@micah_foreverfit/video/7551876144333638924" 
@@ -313,6 +322,14 @@ const routineData = {
             },
 
             { 
+                name: "Leg Extension", 
+                reps: "3 x 8-12", 
+                rest: "90 seg - 2 min", 
+                gif: "https://fitnessprogramer.com/wp-content/uploads/2021/02/LEG-EXTENSION.gif", 
+                tutorial: "https://www.tiktok.com/@juanwagner_/video/7361506972954414378" 
+            },
+
+            { 
                 name: "Curl femoral sentado", 
                 reps: "3 x 8-12", 
                 rest: "90 seg - 2 min", 
@@ -322,31 +339,32 @@ const routineData = {
             
             { 
                 name: "Sentadilla Hack", 
-                reps: "3 x 7-9", 
-                rest: "2 - 3 min", 
+                reps: "2 x 6-10", 
+                rest: "3 min", 
                 gif: "https://fitcron.com/wp-content/uploads/2021/04/19921301-Sled-Full-Hack-Squat_Thighs_720.gif", 
                 tutorial: "https://www.tiktok.com/@juanwagner_/video/7652476062923820318" 
             },
             
-            { 
-                name: "Hip Thrust", 
-                reps: "2 x 8-10", 
-                rest: "2 - 3 min", 
-                gif: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHsfzDfAdNTvXEnkluPttFyejRPmHZo1Arc_lOV6D1mA&s=10", 
-                tutorial: "https://www.tiktok.com/@juanwagner_/video/7282761293877087530" 
+            {
+                name: "Peso Muerto Rumano",
+                reps: "2 x 6-10",
+                rest: "2,5 - 3 min",
+                gif: "https://fitcron.com/wp-content/uploads/2021/04/14591301-Dumbbell-Romanian-Deadlift_Hips_720.gif",
+                tutorial: "https://www.tiktok.com/@aleperezfitness/video/7587008709323197718"
+
             },
 
             { 
-                name: "Leg Extension", 
-                reps: "2 x 12-18", 
-                rest: "90 seg - 2 min", 
-                gif: "https://fitnessprogramer.com/wp-content/uploads/2021/02/LEG-EXTENSION.gif", 
-                tutorial: "https://www.tiktok.com/@juanwagner_/video/7361506972954414378" 
+                name: "Hip Thrust", 
+                reps: "3 x 8-10", 
+                rest: "2 - 2,5 min", 
+                gif: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHsfzDfAdNTvXEnkluPttFyejRPmHZo1Arc_lOV6D1mA&s=10", 
+                tutorial: "https://www.tiktok.com/@juanwagner_/video/7282761293877087530" 
             },
             
             { 
                 name: "Elevación de pantorrillas", 
-                reps: "4 x 10-12", 
+                reps: "3 x 10-12", 
                 rest: "90 seg - 2min", 
                 gif: "https://fitcron.com/wp-content/uploads/2021/04/01081301-Barbell-Standing-Leg-Calf-Raise_Calf_720.gif", 
                 tutorial: "https://www.tiktok.com/@guia.de.ejercicios/video/7310894301142076704" 
@@ -362,7 +380,7 @@ const routineData = {
             
             { 
                 name: "Twist ruso", 
-                reps: "3 x 10-12 por lado", 
+                reps: "2 x 10-12 por lado", 
                 rest: "90 seg - 2 min", 
                 gif: "https://fitcron.com/wp-content/uploads/2024/05/06871301-Russian-Twist_Waist-FIX_720.gif", 
                 tutorial: "https://www.tiktok.com/@micah_foreverfit/video/7551876144333638924" 

@@ -260,7 +260,7 @@ const routineData = {
 
             {
                 name: "Aperturas traseras",
-                reps: "3 x 8-10",
+                reps: "2 x 8-10",
                 rest: "90 s - 2 min",
                 gif: "https://fitcron.com/wp-content/uploads/2021/04/06021301-Lever-Seated-Reverse-Fly_Shoulders_720.gif",
                 tutorial: "https://www.tiktok.com/@daviddiezft/video/7567820466753228050"
@@ -301,7 +301,7 @@ const routineData = {
 
             { 
                 name: "Curl de muñeca", 
-                reps: "2 x 12 - 15", 
+                reps: "1 x 12 - 15", 
                 rest: "90 seg", 
                 gif: "https://fitcron.com/wp-content/uploads/2021/03/03641301-Dumbbell-One-arm-Wrist-Curl_Forearm-SFIX_720.gif", 
                 tutorial: "" 

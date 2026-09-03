@@ -23,8 +23,8 @@ const routineData = {
 
             { 
                 name: "Pec fly", 
-                reps: "2 x 12-15", 
-                rest: "90 seg - 2 min", 
+                reps: "2 x 10-12", 
+                rest: "2 - 3 min", 
                 gif: "https://fitnessprogramer.com/wp-content/uploads/2021/02/Pec-Deck-Fly.gif", 
                 tutorial: "https://www.tiktok.com/@juanwagner_/video/7293901691643039018" 
             },
@@ -252,8 +252,8 @@ const routineData = {
 
             { 
                 name: "Pec fly", 
-                reps: "3 x 12-15", 
-                rest: "90 seg - 2 min", 
+                reps: "3 x 10-12", 
+                rest: "2 - 3 min", 
                 gif: "https://fitnessprogramer.com/wp-content/uploads/2021/02/Pec-Deck-Fly.gif", 
                 tutorial: "https://www.tiktok.com/@juanwagner_/video/7293901691643039018" 
             },

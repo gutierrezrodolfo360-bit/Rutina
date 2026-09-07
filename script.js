@@ -258,15 +258,6 @@ const routineData = {
                 tutorial: "https://www.tiktok.com/@juanwagner_/video/7293901691643039018" 
             },
 
-            {
-                name: "Aperturas traseras",
-                reps: "2 x 8-10",
-                rest: "90 s - 2 min",
-                gif: "https://fitcron.com/wp-content/uploads/2021/04/06021301-Lever-Seated-Reverse-Fly_Shoulders_720.gif",
-                tutorial: "https://www.tiktok.com/@daviddiezft/video/7567820466753228050"
-
-            },
-
             { 
                 name: "Elevaciones laterales en polea", 
                 reps: "2 x 12-15", 
